@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author ltpnt
+ * @author HaiNguyen
  */
 public class QLDS implements IQLDS{
     private List<CaNhan> dsCaNhan = new ArrayList<>();

@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  *
- * @author ltpnt
+ * @author HaiNguyen
  */
 public class LopHoc {
     List<HocSinh> dsHocSinh = new ArrayList<>();
